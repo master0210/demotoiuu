@@ -1,0 +1,13 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:id="@+id/merge_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This is a merged layout!" />
+
+    <Button
+        android:id="@+id/merge_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click Me" />
+</merge>
